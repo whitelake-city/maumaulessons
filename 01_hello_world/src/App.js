@@ -9,6 +9,9 @@ class App extends Component {
      * Die Eingabe dieses Feldes soll dann statt "Welt" im Titel angezeigt werden.
      *
      * Siehe auch (in Englisch): https://reactjs.org/docs/introducing-jsx.html
+     *
+     * Wörterbuch:
+     * Eingabefeld = input
      */
 
     render() {
