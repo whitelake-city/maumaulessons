@@ -7,6 +7,8 @@ class App extends Component {
      *
      * Füge der Seite ein Eingabefeld (input) hinzu. Dieses soll die Eingabe eines Namens ermöglichen.
      * Die Eingabe dieses Feldes soll dann statt "Welt" im Titel angezeigt werden.
+     *
+     * Siehe auch (in Englisch): https://reactjs.org/docs/introducing-jsx.html
      */
 
     render() {
